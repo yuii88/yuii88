@@ -59,19 +59,6 @@
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yuii88&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuii88&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuii88&hide_border=true&theme=minimal" alt="Contribution graph"/>
-</p>
-
----
-
 <p align="center">
   <i>"Quality isn't a phase. It's part of how I build."</i>
 </p>
